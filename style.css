@@ -1,0 +1,20 @@
+
+
+ 
+table {
+    border: 2px black solid;
+    border-collapse: separate;
+    margin: 100px 200px;
+    justify-content: center;
+    width: 50%;  
+}
+.head{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.container{
+    height: 75px;
+  background-color: dodgerblue;
+  border: 1px solid lightgrey;
+  display: inline-block;
+  text-align: center;
+}
